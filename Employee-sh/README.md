@@ -9,7 +9,7 @@
 
 ## About Employee Form Web Application Project
 
-** Employee Form project with Laravel framework, Demo project 
+Employee Form project with Laravel framework, Demo project 
 My work :
 - Wrote an HTML form code to add  new Employee by form, 
 - Validation to fill out the blank, name: only text, Phone number: only 10 digits 
